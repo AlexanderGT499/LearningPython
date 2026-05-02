@@ -1,0 +1,5 @@
+What are we going to do?
+
+Test special character: á
+
+Everything OK?
